@@ -9,8 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="primary">#5C6BC0</color>
-    <color name="background">#60B52F</color>
-    <color name="colortexto">#670669</color>
+    <color name="primary">#00796B</color>
+    <color name="background">#1976D2</color>
+    <color name="textColor">#340235</color>
 
 </resources>

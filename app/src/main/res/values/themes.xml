@@ -15,7 +15,7 @@
         <!-- Customize your theme here. -->
 
         <item name="android:background">@color/background</item>
-        <item name="android:textColor">@color/colortexto</item>
+        <item name="android:textColor">@color/textColor</item>
 
     </style>
 </resources>
