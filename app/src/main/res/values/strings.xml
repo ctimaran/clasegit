@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ClaseGit</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="mensaje_atencion">Bienvenido a tu aplicación</string>
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_fragment">Fragmento Principal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
